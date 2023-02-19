@@ -1,0 +1,15 @@
+C:\C#\A04\bin\Debug\net7.0\A04.exe
+C:\C#\A04\bin\Debug\net7.0\A04.deps.json
+C:\C#\A04\bin\Debug\net7.0\A04.runtimeconfig.json
+C:\C#\A04\bin\Debug\net7.0\A04.dll
+C:\C#\A04\bin\Debug\net7.0\A04.pdb
+C:\C#\A04\obj\Debug\net7.0\A04.csproj.AssemblyReference.cache
+C:\C#\A04\obj\Debug\net7.0\A04.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\A04\obj\Debug\net7.0\A04.AssemblyInfoInputs.cache
+C:\C#\A04\obj\Debug\net7.0\A04.AssemblyInfo.cs
+C:\C#\A04\obj\Debug\net7.0\A04.csproj.CoreCompileInputs.cache
+C:\C#\A04\obj\Debug\net7.0\A04.dll
+C:\C#\A04\obj\Debug\net7.0\refint\A04.dll
+C:\C#\A04\obj\Debug\net7.0\A04.pdb
+C:\C#\A04\obj\Debug\net7.0\A04.genruntimeconfig.cache
+C:\C#\A04\obj\Debug\net7.0\ref\A04.dll
